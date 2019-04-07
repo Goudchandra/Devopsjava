@@ -1,0 +1,11 @@
+Java-maven-Git-Tomcat-Jenkins Configuration
+
+#login to root
+echo login to root
+sudo -i
+====== Install Wget ===========
+#install wget downloaded.
+echo install wget downloaded.
+ yum install wget -y
+ 
+ =====================================
